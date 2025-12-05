@@ -1,4 +1,4 @@
-# XAI for IOT 
+# XAI for IoT 
 ## Anomaly Detection in Smart Homes With TinyLlama
 
 ##  Overview
